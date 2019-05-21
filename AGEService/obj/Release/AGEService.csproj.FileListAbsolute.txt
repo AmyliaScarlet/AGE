@@ -1,0 +1,9 @@
+F:\AGEBin\Release\AGEService.exe.config
+F:\AGEBin\Release\AGEService.exe
+F:\AGE\AGEService\obj\Release\AGEService.csprojAssemblyReference.cache
+F:\AGE\AGEService\obj\Release\AGEService.AGEService.resources
+F:\AGE\AGEService\obj\Release\AGEService.ProjectInstaller.resources
+F:\AGE\AGEService\obj\Release\AGEService.csproj.GenerateResource.cache
+F:\AGE\AGEService\obj\Release\AGEService.csproj.CoreCompileInputs.cache
+F:\AGE\AGEService\obj\Release\AGEService.csproj.CopyComplete
+F:\AGE\AGEService\obj\Release\AGEService.exe

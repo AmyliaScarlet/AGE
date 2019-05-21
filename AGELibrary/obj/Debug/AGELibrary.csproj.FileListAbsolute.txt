@@ -1,0 +1,5 @@
+F:\AGE\AGELibrary\obj\Debug\AGELibrary.csproj.CoreCompileInputs.cache
+F:\AGE\AGELibrary\bin\Debug\AGELibrary.dll
+F:\AGE\AGELibrary\bin\Debug\AGELibrary.pdb
+F:\AGE\AGELibrary\obj\Debug\AGELibrary.dll
+F:\AGE\AGELibrary\obj\Debug\AGELibrary.pdb

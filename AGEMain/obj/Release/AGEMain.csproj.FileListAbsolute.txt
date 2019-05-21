@@ -1,0 +1,9 @@
+F:\AGEBin\Release\AGEMain.exe.config
+F:\AGEBin\Release\AGEMain.exe
+F:\AGE\AGEMain\obj\Release\AGEMain.csprojAssemblyReference.cache
+F:\AGE\AGEMain\obj\Release\AGEMain.Form.resources
+F:\AGE\AGEMain\obj\Release\AGE.Properties.Resources.resources
+F:\AGE\AGEMain\obj\Release\AGEMain.csproj.GenerateResource.cache
+F:\AGE\AGEMain\obj\Release\AGEMain.csproj.CoreCompileInputs.cache
+F:\AGE\AGEMain\obj\Release\AGEMain.csproj.CopyComplete
+F:\AGE\AGEMain\obj\Release\AGEMain.exe

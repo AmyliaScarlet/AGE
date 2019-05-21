@@ -1,0 +1,9 @@
+F:\AAE\AAE\AAE\bin\Debug\AAE.exe.config
+F:\AAE\AAE\AAE\bin\Debug\AAE.exe
+F:\AAE\AAE\AAE\bin\Debug\AAE.pdb
+F:\AAE\AAE\AAE\obj\Debug\AAE.Form.resources
+F:\AAE\AAE\AAE\obj\Debug\AAE.Properties.Resources.resources
+F:\AAE\AAE\AAE\obj\Debug\AAE.csproj.GenerateResource.cache
+F:\AAE\AAE\AAE\obj\Debug\AAE.csproj.CoreCompileInputs.cache
+F:\AAE\AAE\AAE\obj\Debug\AAE.exe
+F:\AAE\AAE\AAE\obj\Debug\AAE.pdb

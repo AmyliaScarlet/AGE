@@ -1,0 +1,8 @@
+F:\AGE\AGEUninstall\bin\Debug\AGEUninstall.exe.config
+F:\AGE\AGEUninstall\bin\Debug\AGEUninstall.exe
+F:\AGE\AGEUninstall\bin\Debug\AGEUninstall.pdb
+F:\AGE\AGEUninstall\obj\Debug\AGEUninstall.Properties.Resources.resources
+F:\AGE\AGEUninstall\obj\Debug\AGEUninstall.csproj.GenerateResource.cache
+F:\AGE\AGEUninstall\obj\Debug\AGEUninstall.csproj.CoreCompileInputs.cache
+F:\AGE\AGEUninstall\obj\Debug\AGEUninstall.exe
+F:\AGE\AGEUninstall\obj\Debug\AGEUninstall.pdb

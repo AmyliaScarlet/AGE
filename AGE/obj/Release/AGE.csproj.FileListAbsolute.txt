@@ -1,0 +1,14 @@
+F:\AGEBin\Release\AGE.exe.config
+F:\AGEBin\Release\AGE.exe
+F:\AGE\AGE\obj\Release\AGE.csprojAssemblyReference.cache
+F:\AGE\AGE\obj\Release\MainWindow.g.cs
+F:\AGE\AGE\obj\Release\App.g.cs
+F:\AGE\AGE\obj\Release\AGE_MarkupCompile.cache
+F:\AGE\AGE\obj\Release\AGE_MarkupCompile.lref
+F:\AGE\AGE\obj\Release\MainWindow.baml
+F:\AGE\AGE\obj\Release\AGE.g.resources
+F:\AGE\AGE\obj\Release\AGE.Properties.Resources.resources
+F:\AGE\AGE\obj\Release\AGE.csproj.GenerateResource.cache
+F:\AGE\AGE\obj\Release\AGE.csproj.CoreCompileInputs.cache
+F:\AGE\AGE\obj\Release\AGE.csproj.CopyComplete
+F:\AGE\AGE\obj\Release\AGE.exe

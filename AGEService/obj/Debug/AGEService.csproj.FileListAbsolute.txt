@@ -1,0 +1,13 @@
+F:\AGE\AGEService\bin\Debug\AGEService.exe.config
+F:\AGE\AGEService\bin\Debug\AGEService.exe
+F:\AGE\AGEService\bin\Debug\AGEService.pdb
+F:\AGE\AGEService\obj\Debug\AGEService.ProjectInstaller.resources
+F:\AGE\AGEService\obj\Debug\AGEService.csproj.GenerateResource.cache
+F:\AGE\AGEService\obj\Debug\AGEService.csproj.CoreCompileInputs.cache
+F:\AGE\AGEService\obj\Debug\AGEService.csprojAssemblyReference.cache
+F:\AGE\AGEService\obj\Debug\AGEService.csproj.CopyComplete
+F:\AGEBin\Debug\AGEService.exe.config
+F:\AGEBin\Debug\AGEService.exe
+F:\AGEBin\Debug\AGEService.pdb
+F:\AGE\AGEService\obj\Debug\AGEService.exe
+F:\AGE\AGEService\obj\Debug\AGEService.pdb

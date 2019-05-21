@@ -1,0 +1,17 @@
+F:\AGE\AGEMain\bin\Debug\AGEMain.exe.config
+F:\AGE\AGEMain\bin\Debug\AGEMain.exe
+F:\AGE\AGEMain\bin\Debug\AGEMain.pdb
+F:\AGE\AGEMain\obj\Debug\AGEMain.Form.resources
+F:\AGE\AGEMain\obj\Debug\AGEMain.csproj.GenerateResource.cache
+F:\AGE\AGEMain\obj\Debug\AGEMain.csproj.CoreCompileInputs.cache
+F:\AGE\AGEMain\obj\Debug\AGEMain.csprojAssemblyReference.cache
+F:\AGE\AGEMain\bin\Debug\AGE.exe
+F:\AGE\AGEMain\bin\Debug\AGE.pdb
+F:\AGE\AGEMain\bin\Debug\AGE.exe.config
+F:\AGE\AGEMain\obj\Debug\AGEMain.csproj.CopyComplete
+F:\AGEBin\Debug\AGEMain.exe.config
+F:\AGEBin\Debug\AGEMain.exe
+F:\AGEBin\Debug\AGEMain.pdb
+F:\AGE\AGEMain\obj\Debug\AGE.Properties.Resources.resources
+F:\AGE\AGEMain\obj\Debug\AGEMain.exe
+F:\AGE\AGEMain\obj\Debug\AGEMain.pdb

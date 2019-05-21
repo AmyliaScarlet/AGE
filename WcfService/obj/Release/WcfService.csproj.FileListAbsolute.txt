@@ -1,0 +1,6 @@
+F:\AGE\WcfService\bin\WcfService.dll.config
+F:\AGE\WcfService\bin\WcfService.dll
+F:\AGE\WcfService\bin\WcfService.pdb
+F:\AGE\WcfService\obj\Release\WcfService.csproj.CoreCompileInputs.cache
+F:\AGE\WcfService\obj\Release\WcfService.dll
+F:\AGE\WcfService\obj\Release\WcfService.pdb
